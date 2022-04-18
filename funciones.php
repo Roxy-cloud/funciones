@@ -2,10 +2,9 @@
 
 <HEAD>
    <TITLE>Tablas y funciones</TITLE>
-   <LINK REL="stylesheet" TYPE="text/css" HREF="estilo.css">
 
 <?PHP
-// Función que obtiene el nombre de un mes
+// FunciÃ³n que obtiene el nombre de un mes
    function nombreMes ($mes)
    {
       $meses = array ("enero", "febrero", "marzo", "abril", "mayo",
